@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formtz/static/css/main.9dd0716f.css",
+    "main.js": "/formtz/static/js/main.438a9f1f.js",
+    "static/js/787.569efef2.chunk.js": "/formtz/static/js/787.569efef2.chunk.js",
+    "index.html": "/formtz/index.html",
+    "main.9dd0716f.css.map": "/formtz/static/css/main.9dd0716f.css.map",
+    "main.438a9f1f.js.map": "/formtz/static/js/main.438a9f1f.js.map",
+    "787.569efef2.chunk.js.map": "/formtz/static/js/787.569efef2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd0716f.css",
+    "static/js/main.438a9f1f.js"
+  ]
+}
